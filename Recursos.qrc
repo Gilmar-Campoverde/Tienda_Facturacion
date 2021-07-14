@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/imagenT">
+        <file>Recursos/tiendas.png</file>
+    </qresource>
+</RCC>
